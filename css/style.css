@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}
+#time{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:1400px;
+    height:400px;
+}
